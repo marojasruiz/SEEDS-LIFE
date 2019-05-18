@@ -12,6 +12,6 @@ Dirigido al sector....
 #### ¿Cuál será la metodología? 
  * secuencia de trehalosa
 ##### Costos
-Material | Costo | Tiempo
----------|-------| ------
-Semillas | $ 180. 00 | 2 semanas
+| Material | Costo | Tiempo |
+| ---------|-------| ------ |
+| Semillas | $ 180. 00 | 2 semanas |
