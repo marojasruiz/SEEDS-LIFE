@@ -5,7 +5,7 @@ En los últimos días, hemos sido testigos de grandes incendios que han devorado
 **Las autoridades constantemente trabajan en la recuperación de los espacios afectados por los incendios y al mismo tiempo, buscan la solución al desabasto del agua debido a la presencia de sequías en la región.**
 
 # ¿En dónde se implementaría?
-¡[Elección de conjunto vegetal](http://cuentame.inegi.org.mx/monografias/imagenes/relieve/rel_gto.jpg), Nuestro primer trabajo consistirá, en buscar en nuestro alrededor un conjunto vegetal lo suficientemente variado. Pero no vamos a lanzarnos al azar a los alrededores. Tomando a consideración los siguientes criterios:
+![Elección de conjunto vegetal](http://cuentame.inegi.org.mx/monografias/imagenes/relieve/rel_gto.jpg), Nuestro primer trabajo consistirá, en buscar en nuestro alrededor un conjunto vegetal lo suficientemente variado. Pero no vamos a lanzarnos al azar a los alrededores. Tomando a consideración los siguientes criterios:
 * Exposición. La brújula tiene la capacidad de brindarnos inmediatamente unas indicaciones sobres la exposición. Cómo podría ser el hacia donde corre un río.
 * Pendiente.
 * Estado de suelo. Reconoceremos fácilmente las zonas rocosas, y las formaciones de guijarros, permitiéndonos ver ciertos rasgos y características físicas.
