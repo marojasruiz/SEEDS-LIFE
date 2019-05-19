@@ -93,4 +93,6 @@ La modificación propuesta en este proyecto es conferirle las propiedades de la 
 La creencia en este proyecto es grande debido a que se requieren menos cuidados para la planta ya que esta recibe una mejora para garantizarle una mayor tasa de supervivencia, un ejemplo de esto es que cuando llegue epoca de sequía la planta tiene la capacidad de deshidratarse de manera que queda en un estado de "animación suspendida" reviviendo con una mínima cantidad de agua conservando todas sus propiedades y cumpliendo de manera totalmente normal con sus funciones biológicas.
 
 # Derecho de autor
+Articulo 10.- La presente Ley, reglamentaria del articulo 28 constitucional, tiene por objeto la salvaguarda y
+promoción del acervo cultural del impacto ambiental; protección de los derechos de los autores, así como de los editores, productores y de los organismos de difusión, en relación con medio ambiente, tecnología, innovación, y genética, así como de los otros derechos de propiedad intelectual. 
 
