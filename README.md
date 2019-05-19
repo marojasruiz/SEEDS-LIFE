@@ -19,8 +19,9 @@ Se basa en la trehalosa, disacárido no reductor formado por dos moléculas de g
 
 Las proteínas que contiene, logra mantener de mejor manera su actividad bajo estrés abiótico en presencia de trehalosa, ya que ésta reemplaza al agua formando una especie de resguardo alrededor de la proteína deshidratada protegiendo así su estructura terciaria y su actividad. La interacción se efectúa por puentes de hidrógeno entre ambas moléculas, esto es debido a los grupos polares de la proteína y los hidroxilos del azúcar. ![Protección de la pared celular](http://bibliotecadigital.uca.edu.ar/greenstone/collect/tesis/tmp/efecto-trehalosa-adn-bovino-22_2.jpg)
 
-### Innovación
+## Innovación
 Estamos cambiando la manera en que se reforesta, reduciendo tiempo, dinero y recursos. A travás de la combinación genética de las plantas, brindándoles la mejora en adaptación y supervivencia al estrés abiótico. 
+
 #### Costo de producción
 <table style="width:100%">
   <tr>
@@ -75,5 +76,5 @@ La modificación propuesta en este proyecto es conferirle las propiedades de la 
 
 La creencia en este proyecto es grande debido a que se requieren menos cuidados para la planta ya que esta recibe una mejora para garantizarle una mayor tasa de supervivencia, un ejemplo de esto es que cuando llegue epoca de sequía la planta tiene la capacidad de deshidratarse de manera que queda en un estado de "animación suspendida" reviviendo con una mínima cantidad de agua conservando todas sus propiedades y cumpliendo de manera totalmente normal con sus funciones biológicas.
 
-###### Derecho de autor
+# Derecho de autor
 
