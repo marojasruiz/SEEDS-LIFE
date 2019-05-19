@@ -19,6 +19,18 @@ Se basa en la trehalosa, disacárido no reductor formado por dos moléculas de g
 
 Las proteínas que contiene, logra mantener de mejor manera su actividad bajo estrés abiótico en presencia de trehalosa, ya que ésta reemplaza al agua formando una especie de resguardo alrededor de la proteína deshidratada protegiendo así su estructura terciaria y su actividad. La interacción se efectúa por puentes de hidrógeno entre ambas moléculas, esto es debido a los grupos polares de la proteína y los hidroxilos del azúcar. ![Protección de la pared celular](http://bibliotecadigital.uca.edu.ar/greenstone/collect/tesis/tmp/efecto-trehalosa-adn-bovino-22_2.jpg)
 
+La glucosa del medio se incorpora a la célula por medio del transporte activo, llevando a cabo una fosforilización en el proceso. En el citosol, la glucosa 6-P, se une a la UDP-Glucosa y por acción de la trehalosa fosfato sintetasa se sintetiza trehalosa fosfatada. La trehalosa 6-fosfato pierde el grupo de fósforo inorgánico en virtud de la actividad catalítica de la fosfatasa obteniendo una molécula de trehalosa
+
+Utiliza estas dos enzimas y los sustratos son la glucosa-6-fosfato y la UDP-glucosa.
+La ruta TPS/TPP se encuentra también en bacterias.
+
+**Propiedades fisicoquímicas**
+
+Se ha demostrado que es capaz de proteger la estructura y función de las enzimas y por supuesto la integridad de las membranas biológicas bajo condiciones de estrés abiótico extremo.
+En la protección de las proteínas la trehalosa forma una cápsula alrededor de la proteína protegiendo su estructura terciaria.
+La capacidad de la trehalosa para proteger las membranas durante la deshidratación, es producto de su interacción con estas para mantener el estado fluido, y prevenir contra la fusión la separación de fases y el rompimiento de las membranas.
+
+
 ## Innovación
 Estamos cambiando la manera en que se reforesta, reduciendo tiempo, dinero y recursos. A travás de la combinación genética de las plantas, brindándoles la mejora en adaptación y supervivencia al estrés abiótico. 
 
@@ -54,7 +66,8 @@ Estamos cambiando la manera en que se reforesta, reduciendo tiempo, dinero y rec
   </tr>
   </table>
   
-<p style="background-color:Tomato;">Viabilidad y efectividad</p> 
+**Viabilidad y efectividad**
+
 México forma parte de la Unión Internacional para la Protección de Obtenciones Vegetales (UPOV) que con el Convenio de la
 UPOV, busca Proporcionar y promover un sistema eficaz de protección de variedades vegetales, con el objetivo de fomentar
 el desarrollo de nuevas variedades de plantas, en beneficio de la sociedad. Cabe mencionar que para ser miembro de esta
@@ -63,13 +76,14 @@ Convenio. En el caso de México, se cuenta con la Ley Federal de Variedades Vege
 
 Para poderse realizar una recombinación genética, es necesario que exista una similitud de un 80% - 85%, estamos seguros de que las plantas que han sido consideras para este proyecto, presentan este porcentaje de similitud. Esto quiere decir, que las plantas empleadas para esto, ya fueron previamente investigada. 
 
-<p style="color:DodgerBlue;">Idea posible a vender o usar en algunas industrias</p>
-Como principal mercado, se planea vender el produto final de la semilla a los gobiernos de los estados para que sus brigadas de reforestación puedan complir su propósito con mayor eficiencia y en menos tiempo luego de que se presente algún siniestro donde tengan que actuar. Como mercado secundario se propone que algunas empresas con reconocimiento de Empresa Socialmente Responsable y que se encuentren entre las mejores en el cumplimiento del cuidado al medio ambiente como BIMBO, CEMEX, Cuauhtémoc Moctezuma, Home Depot, entre otras sean aquellas preferibles para obtener nuestro producto y distribuirlo entre sus productos con motivos de campaña de reforestación.  
+**Idea posible a vender o usar en algunas industrias**
+
+Como principal mercado, se planea vender el produto final de la semilla a los gobiernos de los estados para que sus brigadas de reforestación puedan complir su propósito con mayor eficiencia y en menos tiempo luego de que se presente algún siniestro donde tengan que actuar. Como mercado secundario se propone que algunas empresas con reconocimiento de Empresa Socialmente Responsable y que se encuentren entre las mejores en el cumplimiento del cuidado al medio ambiente como BIMBO, Home Depot, entre otras sean aquellas preferibles para obtener nuestro producto y distribuirlo entre sus productos con motivos de campaña de reforestación.  
 
 
- Fundamentos en los que nos basamos
+ **Fundamentos en los que nos basamos**
 
-Firmemente convencidos de que el proyecto contribuirá en el cumplimiento del objetivo numero 13 Acción por el clima por permitir reesiliencia ante desastres naturales. Al verse tan afectadas las diversas especies vegetales que habitan en el territorio mexicano, de las cuales nosotros obtenemos un sin número de beneficios.
+Firmemente convencidos que el proyecto contribuirá en el cumplimiento del objetivo de impacto ambiental, que podemos encontrar de igual manera en el número 13 Acción por el clima por permitir reesiliencia ante desastres naturales. Al verse tan afectadas las diversas especies vegetales que habitan en el territorio mexicano, de las cuales nosotros obtenemos un sin número de beneficios.
 
 Conociendo el inminente riesgo ecológico que se sierne sobre nosotros como especie, a llegado el momento de recurrir a un plan de acción innovador y sustentable, este plan consiste en la modificación genética de semillas de las zonas mas afectadas por los recientes incendios forestales en el estado de guanajuato.
 
