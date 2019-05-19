@@ -52,6 +52,7 @@ Estamos cambiando la manera en que se reforesta, reduciendo tiempo, dinero y rec
     <td>$3,365.00 por semilla</td>
     <th>$114.00 por kg</th> 
   </tr>
+  </table>
   
 <p style="background-color:Tomato;">Viabilidad y efectividad</p> 
 México forma parte de la Unión Internacional para la Protección de Obtenciones Vegetales (UPOV) que con el Convenio de la
