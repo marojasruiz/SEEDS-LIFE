@@ -66,7 +66,7 @@ Para poderse realizar una recombinación genética, es necesario que exista una 
 Como principal mercado, se planea vender el produto final de la semilla a los gobiernos de los estados para que sus brigadas de reforestación puedan complir su propósito con mayor eficiencia y en menos tiempo luego de que se presente algún siniestro donde tengan que actuar. Como mercado secundario se propone que algunas empresas con reconocimiento de Empresa Socialmente Responsable y que se encuentren entre las mejores en el cumplimiento del cuidado al medio ambiente como BIMBO, CEMEX, Cuauhtémoc Moctezuma, Home Depot, entre otras sean aquellas preferibles para obtener nuestro producto y distribuirlo entre sus productos con motivos de campaña de reforestación.  
 
 
-#### Fundamentos en los que nos basamos
+ Fundamentos en los que nos basamos
 
 Firmemente convencidos de que el proyecto contribuirá en el cumplimiento del objetivo numero 13 Acción por el clima por permitir reesiliencia ante desastres naturales. Al verse tan afectadas las diversas especies vegetales que habitan en el territorio mexicano, de las cuales nosotros obtenemos un sin número de beneficios.
 
