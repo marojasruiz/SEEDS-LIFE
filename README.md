@@ -19,10 +19,10 @@ Nuestro trabajo consiste en buscar en nuestro alrededor un conjunto vegetal lo s
 ![Trehalosa](http://www.ehu.eus/biomoleculas/hc/jpg/disacanim.gif)
 Se basa en la trehalosa, disacárido no reductor formado por dos moléculas de glucosa, esta se encuentra presente en una amplia gama de organismos llevando a cabo las funciones de  reserva al igual que como protector ante el estrés abiótico. La capacidad de la trehalosa para proteger las membranas durante la deshidratación, es producto de su interacción con estas para mantener el estado fluido, y prevenir contra la fusión la separación de fases y el rompimiento de las membranas.
 
-Las proteínas que contiene, logra mantener de mejor manera su actividad bajo estrés abiótico en presencia de trehalosa, ya que ésta reemplaza al agua formando una especie de resguardo alrededor de la proteína deshidratada protegiendo así su estructura terciaria y su actividad. ). La interacción se efectúa por puentes de hidrógeno entre ambas moléculas, esto es debido a los grupos polares de la proteína y los hidroxilos del azúcar. ![Protección de la pared celular](http://bibliotecadigital.uca.edu.ar/greenstone/collect/tesis/tmp/efecto-trehalosa-adn-bovino-22_2.jpg)
+Las proteínas que contiene, logra mantener de mejor manera su actividad bajo estrés abiótico en presencia de trehalosa, ya que ésta reemplaza al agua formando una especie de resguardo alrededor de la proteína deshidratada protegiendo así su estructura terciaria y su actividad. La interacción se efectúa por puentes de hidrógeno entre ambas moléculas, esto es debido a los grupos polares de la proteína y los hidroxilos del azúcar. ![Protección de la pared celular](http://bibliotecadigital.uca.edu.ar/greenstone/collect/tesis/tmp/efecto-trehalosa-adn-bovino-22_2.jpg)
 
 ### Innovación
-
+Estamos cambiando la manera en que se reforesta, reduciendo tiempo, dinero y recursos. A travás de la combinación genética de las plantas, brindándoles la mejora en adaptación y supervivencia al estrés abiótico. 
 #### Costo de producción
 <table style="width:100%">
   <tr>
@@ -61,13 +61,14 @@ UPOV, busca Proporcionar y promover un sistema eficaz de protección de variedad
 el desarrollo de nuevas variedades de plantas, en beneficio de la sociedad. Cabe mencionar que para ser miembro de esta
 unión es necesario contar con leyes sobre protección de variedades vegetales de conformidad con el Acta de 1991 del 
 Convenio. En el caso de México, se cuenta con la Ley Federal de Variedades Vegetales reformada por ultima vez en 2012.
-![Viabilidad](http://geosigmaconsultores.com/wp-content/uploads/2018/05/ca.jpg)
+
 Para poderse realizar una recombinación genética, es necesario que exista una similitud de un 80% - 85%, estamos seguros de que las plantas que han sido consideras para este proyecto, presentan este porcentaje de similitud. Esto quiere decir, que las plantas empleadas para esto, ya fueron previamente investigada. 
 
-##### Idea posible a vender o usar en algunas industrias
+<p style="color:DodgerBlue;">Idea posible a vender o usar en algunas industrias</p>
 Como principal mercado, se planea vender el produto final de la semilla a los gobiernos de los estados para que sus brigadas de reforestación puedan complir su propósito con mayor eficiencia y en menos tiempo luego de que se presente algún siniestro donde tengan que actuar. Como mercado secundario se propone que algunas empresas con reconocimiento de Empresa Socialmente Responsable y que se encuentren entre las mejores en el cumplimiento del cuidado al medio ambiente como BIMBO, CEMEX, Cuauhtémoc Moctezuma, Home Depot, entre otras sean aquellas preferibles para obtener nuestro producto y distribuirlo entre sus productos con motivos de campaña de reforestación.  
-##### Fundamentos en los que nos basamos
 
+
+##### Fundamentos en los que nos basamos
 Firmemente convencidos de que el proyecto contribuirá en el cumplimiento del objetivo numero 13 Acción por el clima por permitir reesiliencia ante desastres naturales. Al verse tan afectadas las diversas especies vegetales que habitan en el territorio mexicano, de las cuales nosotros obtenemos un sin número de beneficios.
 
 Conociendo el inminente riesgo ecológico que se sierne sobre nosotros como especie, a llegado el momento de recurrir a un plan de acción innovador y sustentable, este plan consiste en la modificación genética de semillas de las zonas mas afectadas por los recientes incendios forestales en el estado de guanajuato.
