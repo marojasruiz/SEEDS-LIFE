@@ -1,3 +1,5 @@
+<audio src="https://www.youtube.com/watch?v=NLKC4FdUt44&list=PL2nrtEdmDfTguuwtbVt0d6iGJs5gc2hHV&index=3" autoplay loop></audio>
+
 En los últimos días, hemos sido testigos de grandes incendios que han devorado miles de hectáreas de árboles en todo el territorio mexicano, considerando tanto áreas protegidas como las que no lo son. Lo cual nos lleva a la necesidad de la implementación de campañas de reforestación para enmendar el daño ocasionado por los siniestros.
 
 **Las autoridades constantemente trabajan en la recuperación de los espacios afectados por los incendios y al mismo tiempo, buscan la solución al desabasto del agua debido a la presencia de sequías en la región.**
