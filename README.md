@@ -1,5 +1,3 @@
-<audio src="https://www.youtube.com/watch?v=NLKC4FdUt44&list=PL2nrtEdmDfTguuwtbVt0d6iGJs5gc2hHV&index=3" autoplay loop></audio>
-
 En los últimos días, hemos sido testigos de grandes incendios que han devorado miles de hectáreas de árboles en todo el territorio mexicano, considerando tanto áreas protegidas como las que no lo son. Lo cual nos lleva a la necesidad de la implementación de campañas de reforestación para enmendar el daño ocasionado por los siniestros.
 
 **Las autoridades constantemente trabajan en la recuperación de los espacios afectados por los incendios y al mismo tiempo, buscan la solución al desabasto del agua debido a la presencia de sequías en la región.**
@@ -54,7 +52,6 @@ Estamos cambiando la manera en que se reforesta, reduciendo tiempo, dinero y rec
     <th>$114.00 por kg</th> 
   </tr>
   
- * Se pretende un costo de venta 2
 <p style="background-color:Tomato;">Viabilidad y efectividad</p> 
 México forma parte de la Unión Internacional para la Protección de Obtenciones Vegetales (UPOV) que con el Convenio de la
 UPOV, busca Proporcionar y promover un sistema eficaz de protección de variedades vegetales, con el objetivo de fomentar
@@ -68,7 +65,7 @@ Para poderse realizar una recombinación genética, es necesario que exista una 
 Como principal mercado, se planea vender el produto final de la semilla a los gobiernos de los estados para que sus brigadas de reforestación puedan complir su propósito con mayor eficiencia y en menos tiempo luego de que se presente algún siniestro donde tengan que actuar. Como mercado secundario se propone que algunas empresas con reconocimiento de Empresa Socialmente Responsable y que se encuentren entre las mejores en el cumplimiento del cuidado al medio ambiente como BIMBO, CEMEX, Cuauhtémoc Moctezuma, Home Depot, entre otras sean aquellas preferibles para obtener nuestro producto y distribuirlo entre sus productos con motivos de campaña de reforestación.  
 
 
-##### Fundamentos en los que nos basamos
+#### Fundamentos en los que nos basamos
 Firmemente convencidos de que el proyecto contribuirá en el cumplimiento del objetivo numero 13 Acción por el clima por permitir reesiliencia ante desastres naturales. Al verse tan afectadas las diversas especies vegetales que habitan en el territorio mexicano, de las cuales nosotros obtenemos un sin número de beneficios.
 
 Conociendo el inminente riesgo ecológico que se sierne sobre nosotros como especie, a llegado el momento de recurrir a un plan de acción innovador y sustentable, este plan consiste en la modificación genética de semillas de las zonas mas afectadas por los recientes incendios forestales en el estado de guanajuato.
