@@ -66,6 +66,7 @@ Como principal mercado, se planea vender el produto final de la semilla a los go
 
 
 #### Fundamentos en los que nos basamos
+
 Firmemente convencidos de que el proyecto contribuirá en el cumplimiento del objetivo numero 13 Acción por el clima por permitir reesiliencia ante desastres naturales. Al verse tan afectadas las diversas especies vegetales que habitan en el territorio mexicano, de las cuales nosotros obtenemos un sin número de beneficios.
 
 Conociendo el inminente riesgo ecológico que se sierne sobre nosotros como especie, a llegado el momento de recurrir a un plan de acción innovador y sustentable, este plan consiste en la modificación genética de semillas de las zonas mas afectadas por los recientes incendios forestales en el estado de guanajuato.
