@@ -3,11 +3,10 @@ En los últimos días, hemos sido testigos de grandes incendios que han devorado
 
 **Las autoridades constantemente trabajan en la recuperación de los espacios afectados por los incendios y al mismo tiempo, buscan la solución al desabasto del agua debido a la presencia de sequías en la región.**
 
-## ¿A qué área va enfocado?
-Dirigido al sector....
-### ¿Hacia qué público va dirigido?
- - [ ] Niños
- - [x] Jóvenes
- - [ ] Adultos
-#### ¿Cuál será la metodología? 
- * secuencia de trehalosa
+## ¿En dónde se implementaría?
+### ¿En qué se basa?
+![Trehalosa](http://www.plantasyhongos.es/swf/trehalosa.jpg)
+#### Innovación
+##### Costos
+###### Viabilidad y efectividad
+
