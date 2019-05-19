@@ -41,7 +41,7 @@ Las proteínas que contiene, logra mantener de mejor manera su actividad bajo es
     <td>Cupressus lusitanica</td>
     <td>200</td> 
     <td>$120.00</td>
-    <td>$3,365.00< por semilla/td>
+    <td>$3,365.00< por semilla</td>
   </tr>
   <tr>
     <td>Pinus pinceana</td>
@@ -49,8 +49,8 @@ Las proteínas que contiene, logra mantener de mejor manera su actividad bajo es
     <td>$50.00</td>
     <td>$3,365.00 por semilla</td>
   </tr>
-</table>
 <p style="background-color:Tomato;">Viabilidad y efectividad</p> 
+  
 México forma parte de la Unión Internacional para la Protección de Obtenciones Vegetales (UPOV) que con el Convenio de la
 UPOV, busca Proporcionar y promover un sistema eficaz de protección de variedades vegetales, con el objetivo de fomentar
 el desarrollo de nuevas variedades de plantas, en beneficio de la sociedad. Cabe mencionar que para ser miembro de esta
