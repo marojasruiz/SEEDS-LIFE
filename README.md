@@ -41,7 +41,7 @@ Las proteínas que contiene, logra mantener de mejor manera su actividad bajo es
     <td>Cupressus lusitanica</td>
     <td>200</td> 
     <td>$120.00</td>
-    <td>$3,365.00< por semilla</td>
+    <td>$3,365.00 por semilla</td>
   </tr>
   <tr>
     <td>Pinus pinceana</td>
