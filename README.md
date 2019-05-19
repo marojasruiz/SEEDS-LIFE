@@ -9,4 +9,6 @@ En los últimos días, hemos sido testigos de grandes incendios que han devorado
 #### Innovación
 ##### Costos
 ###### Viabilidad y efectividad
+####### Idea posible a vender o usar en algunas industrias
+######## Derecho de autor
 
