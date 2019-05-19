@@ -22,6 +22,7 @@ Se basa en la trehalosa, disacárido no reductor formado por dos moléculas de g
 Las proteínas que contiene, logra mantener de mejor manera su actividad bajo estrés abiótico en presencia de trehalosa, ya que ésta reemplaza al agua formando una especie de resguardo alrededor de la proteína deshidratada protegiendo así su estructura terciaria y su actividad. ). La interacción se efectúa por puentes de hidrógeno entre ambas moléculas, esto es debido a los grupos polares de la proteína y los hidroxilos del azúcar. [Protección de la pared celular](http://bibliotecadigital.uca.edu.ar/greenstone/collect/tesis/tmp/efecto-trehalosa-adn-bovino-22_2.jpg)
 
 ### Innovación
+
 #### Costo de producción
 <table style="width:100%">
   <tr>
@@ -49,8 +50,7 @@ Las proteínas que contiene, logra mantener de mejor manera su actividad bajo es
     <td>$3,365.00 por semilla</td>
   </tr>
 </table>
-##### Viabilidad y efectividad
-
+<p style="background-color:Tomato;">Viabilidad y efectividad</p> 
 México forma parte de la Unión Internacional para la Protección de Obtenciones Vegetales (UPOV) que con el Convenio de la
 UPOV, busca Proporcionar y promover un sistema eficaz de protección de variedades vegetales, con el objetivo de fomentar
 el desarrollo de nuevas variedades de plantas, en beneficio de la sociedad. Cabe mencionar que para ser miembro de esta
