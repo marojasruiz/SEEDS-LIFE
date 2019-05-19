@@ -5,7 +5,7 @@ En los últimos días, hemos sido testigos de grandes incendios que han devorado
 
 ## ¿En dónde se implementaría?
 ### ¿En qué se basa?
-![Trehalosa](http://www.plantasyhongos.es/swf/trehalosa.jpg)
+![Trehalosa](http://www.ehu.eus/biomoleculas/hc/jpg/disacanim.gif)
 #### Innovación
 ##### Costos
 ###### Viabilidad y efectividad
